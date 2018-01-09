@@ -1,0 +1,30 @@
+{
+  "name": "web3-helpers",
+  "version": "0.1.0",
+  "description": "Utility functions for Nodejs and Web3js based services",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TakeWingCo/web3-helpers.git"
+  },
+  "keywords": [
+    "web3",
+    "web3js",
+    "ethereum"
+  ],
+  "author": "TakeWing Company",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TakeWingCo/web3-helpers/issues"
+  },
+  "homepage": "https://github.com/TakeWingCo/web3-helpers#readme",
+  "dependencies": {
+    "web3": "^1.0.0-beta.27"
+  },
+  "devDependencies": {
+    "eslint": "^4.15.0"
+  }
+}

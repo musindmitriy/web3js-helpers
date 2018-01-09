@@ -1,0 +1,13 @@
+# vim backups
+*~
+
+# vim temp and backup files
+*.swo
+*.swp
+*~
+
+# IDEA settings
+.idea
+
+# NodeJS modules
+node_modules
