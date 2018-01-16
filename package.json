@@ -4,7 +4,7 @@
   "description": "Utility functions for Nodejs and Web3js based services",
   "main": ".eslintrc.js",
   "scripts": {
-    "test": "test"
+    "test": "./node_modules/jshint/bin/jshint index.js"
   },
   "repository": {
     "type": "git",
@@ -25,6 +25,7 @@
     "web3": "^1.0.0-beta.27"
   },
   "devDependencies": {
-    "eslint": "^4.15.0"
+    "eslint": "^4.15.0",
+    "jshint": "^2.6.0"
   }
 }
