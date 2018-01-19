@@ -25,6 +25,7 @@
     "web3": "^1.0.0-beta.27"
   },
   "devDependencies": {
-    "eslint": "^4.15.0"
+    "eslint": "^4.15.0",
+    "eslint-plugin-import": "^2.8.0"
   }
 }
