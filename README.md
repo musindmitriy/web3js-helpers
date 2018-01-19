@@ -1,5 +1,7 @@
 # Web3 helpers
 
+[![Build Status](https://travis-ci.org/musindmitriy/web3js-helpers.svg?branch=master)](https://travis-ci.org/musindmitriy/web3js-helpers)
+
 This is NodeJS library with easy wrapper object for web3js library.
 Its aim is to make interactions with smart contracts more simple and quick
 than full web3js contract .send and .call process.
